@@ -1,1 +1,2 @@
 InvalidInputException - The input/inputs from the user are invalid.
+InsufficientEnergyException - There is an insufficient amount of energy.
